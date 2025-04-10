@@ -30,7 +30,7 @@ gerenciador-tarefas/ ├── node_modules/ ├── public/ ├── src/ �
 1. **Clone o repositório:**
 
 ```bash
-git clone https://github.com/seu-usuario/gerenciador-tarefas.git
+git clone https://github.com/rlsgabriella/gerenciador-tarefas
 
 -npm install
 -npm run dev
